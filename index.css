@@ -210,11 +210,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-2 .u-container-layout-1 {
-    padding-top: 30px;
-    padding-bottom: 30px;
-  }
-
   .u-section-2 .u-btn-1 {
     margin-left: 52px;
   }
